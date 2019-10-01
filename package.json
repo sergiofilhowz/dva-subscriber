@@ -1,0 +1,14 @@
+{
+  "name": "dva-subscriber",
+  "version": "0.0.2",
+  "description": "A module to help create subscribers",
+  "main": "index.js",
+  "repository": "https://github.com/sergiofilhowz/dva-subscriber",
+  "author": "Sergio Marcelino <sergio@filho.org>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "query-string": "^6.8.3"
+  }
+}
